@@ -61,20 +61,8 @@ Key Features (PRO Edition)
                   │ - Weather insights                                   │
                   └──────────────────────────────────────────────────────┘
 
-1.Clone the repository
-git clone https://github.com/vibhutirohan/flood-risk-prediction.git
-cd flood-risk-prediction
 
-2.Create a virtual environment
-python -m venv venv
-source venv/bin/activate       # macOS/Linux
-venv\Scripts\activate          # Windows
 
-3.Install dependencies
-pip install -r requirements.txt
-
-4.Launch Streamlit
-streamlit run streamlit_app/app.py
 
 
 
