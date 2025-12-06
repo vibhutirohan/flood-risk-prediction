@@ -30,23 +30,6 @@ Key Features (PRO Edition)
 
 6. PDF Report Export (Professional Grade)
 
-   📦 flood-risk-prediction
-├── api/                     # Optional backend API endpoints
-├── app/                     # UI components, custom widgets
-├── streamlit_app/           # Main Streamlit App
-│   ├── app.py
-│   └── components/
-├── src/                     # ML preprocessing, training utilities
-├── models/                  # Saved ML models (.pkl) [lightweight only]
-├── data/
-│   ├── raw/                 # Raw datasets
-│   └── processed/           # Cleaned feature sets (optional)
-├── notebooks/               # ML experiments, EDA, modeling
-├── reports/                 # Saved analysis reports
-├── tests/                   # Unit tests
-├── config.py                # Global configs
-├── README.md                # Documentation
-└── requirements.txt         # Dependencies
 
                                ┌───────────────────────────┐
                                │     User Interface         │
@@ -96,6 +79,7 @@ pip install -r requirements.txt
 
 4.Launch Streamlit
 streamlit run streamlit_app/app.py
+
 
 
 
