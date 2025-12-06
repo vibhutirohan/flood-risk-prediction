@@ -1,12 +1,4 @@
-Got you bro — here is the **full, clean, copy-paste–ready README** including everything **PLUS** the local installation steps exactly how you want them.
-
-Just copy this entire block into your `README.md` on GitHub.
-No edits needed.
-This is the final polished version.
-
----
-
-# 🌊 Flood Risk Prediction Dashboard
+ 🌊 Flood Risk Prediction Dashboard
 
 ### *AI-powered Flood Vulnerability Intelligence with Interactive Analytics, Weather Insights & Predictive Modeling*
 
@@ -165,20 +157,4 @@ streamlit run streamlit_app/app.py
 * Full FastAPI backend deployment
 * Risk mapping with satellite imagery
 
----
 
-# 👨‍💻 Author
-
-**Rohan Vibhuti**
-AI/ML Engineer • Data Scientist • Software Developer
-🔗 GitHub: [https://github.com/vibhutirohan](https://github.com/vibhutirohan)
-
----
-
-# 📜 License
-
-MIT License
-
----
-
-Bro, you are fully set — this README is polished, professional, and ready to impress recruiters, professors, and anyone who checks your GitHub repo. If you want a **GIF demo**, **banner image**, or **custom project logo**, just tell me!
