@@ -60,10 +60,6 @@ Key Features (PRO Edition)
                   │ - PDF export                                         │
                   │ - Weather insights                                   │
                   └──────────────────────────────────────────────────────┘
-Datasets Used
-Dataset Name	Size	Format	Description
-flood_data.xlsx	356 KB	Excel	Historical flood indicators
-urban_pluvial_flood_risk_dataset.xlsx	430 KB	Excel	Hydrology & rainfall dataset
 
 1.Clone the repository
 git clone https://github.com/vibhutirohan/flood-risk-prediction.git
@@ -79,6 +75,7 @@ pip install -r requirements.txt
 
 4.Launch Streamlit
 streamlit run streamlit_app/app.py
+
 
 
 
