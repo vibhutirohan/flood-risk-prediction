@@ -30,5 +30,5 @@ Key Features (PRO Edition)
 
 6. PDF Report Export (Professional Grade)
 
-Risk recommendations
+
 
