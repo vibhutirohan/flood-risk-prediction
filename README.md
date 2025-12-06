@@ -19,41 +19,16 @@ Perfect for students, researchers, smart city planners, emergency responders, an
 
 Key Features (PRO Edition)
 1. AI-powered Flood Probability Prediction
-Uses rainfall, soil saturation, elevation, hydrology & climate inputs.
-Outputs continuous flood probability with confidence.
 
-2. Real-time “What-If” Scenarios:
-Analyze flood risk by adjusting:
-Rainfall intensity
-Soil saturation
-Drainage coefficient
-Land use index
-Rainfall duration
-Hydrology flow
+2. Real-time “What-If” Scenarios
 
 3. Interactive Visual Analytics
 
-Risk Radar visualization
-Feature importance plots
-Time-series rainfall charts
-Breakdown of hazard indicators
-
 4. Weather Snapshot Integration
 
-Pulls:Current temperature
-Humidity
-Wind speed
-Rainfall forecast
-
 5. Location-Aware Insights
-Powered by latitude & longitude:
-Auto-fill city names
-Geo-tagged predictions
-Region-specific sensitivity factors
 
 6. PDF Report Export (Professional Grade)
-Generate:
-Prediction summary
-Scenario inputs
-Charts & visualizations
+
 Risk recommendations
+
